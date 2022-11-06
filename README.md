@@ -1,14 +1,12 @@
 
 
 # Introduction
-1. The Website is developed for a college Grievance Redressal System in an informal manner i.e. through direct supervision of the principal and managing director earlier. 
-2.  But in formal sense a website is to be developed which will control the grievance redressal system online. 
-3.	The function of the website cell is to look into the complaints raised by any student or staff, and judge its merit. 
-4.	The Grievance cell is also empowered to look into matters of harassment. Anyone with a genuine grievance can register and submit their complaint which will be approached by the department members in person, or in consultation with the officer in-charge Students Grievance Cell. 
-5.	Students, Staff and Members of college can register their complaints and grievances online.
+1.Online complaint management system provides an online way of solving the problems faced by the student by saving time.The 
+2.The main objective of this complaint management system i to make complaints easier to coordinate,monitor,track and resolve and to provide management with an effective tool to identify and target problem areas,monitor comlaints handling performace and make college management a better one.
+5.	Students register their complaints and staff can view the complaints raised by the students.
 
 # Objectives:
-1.	To make complaints easier to coordinate, monitor, track and resolve the Grievances. 
+1.	To make complaints easier to coordinate, monitor, track and resolve . 
 2.	To provide an effective tool to identify and target problem areas and find solutions.
 3.	Prompt and specific retrieval of data.
 4.	Controlling redundancy in storing the same data multiple times.
@@ -31,11 +29,12 @@ python django migrate
 # DataBase
 
 ```
-postgresq
+DB Sqlite
 ```
 # Project Images:
 ## Home Page
-> ![Home](https://user-images.githubusercontent.com/42907076/99896208-5fec7700-2cb4-11eb-96e2-9fc0ef58f76a.png)
+>![image](https://user-images.githubusercontent.com/87935196/200155617-8f8bbb7a-bb55-46d3-8650-79fb632d96a7.png)
+
 
 ## Registration Page
 > ![Registration_Page](https://user-images.githubusercontent.com/42907076/99896238-b35ec500-2cb4-11eb-856f-577c659af53c.png)
