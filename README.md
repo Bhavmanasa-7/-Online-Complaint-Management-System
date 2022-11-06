@@ -2,7 +2,9 @@
 
 # Introduction
 1.Online complaint management system provides an online way of solving the problems faced by the student by saving time. 
+
 2.The main objective of this complaint management system i to make complaints easier to coordinate,monitor,track and resolve and to provide management with an effective tool to identify and target problem areas,monitor comlaints handling performace and make college management a better one.
+
 3.	Students register their complaints and staff can view the complaints raised by the students.
 
 # Objectives:
