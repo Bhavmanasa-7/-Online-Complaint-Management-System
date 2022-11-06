@@ -36,7 +36,7 @@
 DB Sqlite
 ```
 # Project Images:
-## Home Page
+## Home Page:
 >![image](https://user-images.githubusercontent.com/87935196/200155617-8f8bbb7a-bb55-46d3-8650-79fb632d96a7.png)
 
 
