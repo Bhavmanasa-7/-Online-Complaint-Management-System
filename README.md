@@ -16,7 +16,7 @@
 6.	Enhancement in the completion of work within the constraints of time. 
 
 # Outcomes:
-1.	To solve Grievances that has been submitted through the application which has been issued by the users in the most efficient way possible.
+1.	To solve complaints that has been submitted through the application which has been issued by the users in the most efficient way possible.
 2.	To ensure transparency in institutions imparting technical education, with the supreme objective of preventing unfair practices and to provide a mechanism to students, parents, teachers and other non-teaching staff for the redressal of their complaints.
 
 # Requirements
