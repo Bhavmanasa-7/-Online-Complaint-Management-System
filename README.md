@@ -1,9 +1,9 @@
 
 
 # Introduction
-1.Online complaint management system provides an online way of solving the problems faced by the student by saving time.The 
+1.Online complaint management system provides an online way of solving the problems faced by the student by saving time. 
 2.The main objective of this complaint management system i to make complaints easier to coordinate,monitor,track and resolve and to provide management with an effective tool to identify and target problem areas,monitor comlaints handling performace and make college management a better one.
-5.	Students register their complaints and staff can view the complaints raised by the students.
+3.	Students register their complaints and staff can view the complaints raised by the students.
 
 # Objectives:
 1.	To make complaints easier to coordinate, monitor, track and resolve . 
@@ -17,13 +17,15 @@
 1.	To solve Grievances that has been submitted through the application which has been issued by the users in the most efficient way possible.
 2.	To ensure transparency in institutions imparting technical education, with the supreme objective of preventing unfair practices and to provide a mechanism to students, parents, teachers and other non-teaching staff for the redressal of their complaints.
 
-# Djnago commands
+# Requirements
 ```
-pip install django
-pip3 install -r requirements.txt (Python 3)
-
-python djnango makemigrations
-python django migrate
+1.Install python
+2.Install Django
+3.Install db sqlite
+4.Use
+   4.1 python manage.py migrate
+   4.2 python manage.py unserver
+  
 
 ```
 # DataBase
@@ -37,26 +39,17 @@ DB Sqlite
 
 
 ## Registration Page
-> ![Registration_Page](https://user-images.githubusercontent.com/42907076/99896238-b35ec500-2cb4-11eb-856f-577c659af53c.png)
-> ![Registration_Page2](https://user-images.githubusercontent.com/42907076/99896239-b5c11f00-2cb4-11eb-82bd-29569597d735.png)
+> ![image](https://user-images.githubusercontent.com/87935196/200155678-e361b812-37b9-408c-ade0-84a3eb536483.png)
+
 
 ## Login Page
-> ![Login](https://user-images.githubusercontent.com/42907076/99896242-bce82d00-2cb4-11eb-9a63-96bc8aa6255a.png)
-> ![LoginPage](https://user-images.githubusercontent.com/42907076/99896247-c07bb400-2cb4-11eb-9024-a15f9772f98b.png)
-> ![Login-Dashboard](https://user-images.githubusercontent.com/42907076/99896252-ca9db280-2cb4-11eb-8962-629f1ebbffe1.png)
+> ![image](https://user-images.githubusercontent.com/87935196/200155740-72fb0291-3d24-4980-a224-4280713f88be.png)
 
-## User Login
-> ![Profile](https://user-images.githubusercontent.com/42907076/99896257-d25d5700-2cb4-11eb-85f8-a8c5466e67d4.png)
-> ![AddComplaints](https://user-images.githubusercontent.com/42907076/99896259-d7220b00-2cb4-11eb-97a0-28efea307cc3.png)
-> ![Passowrd Reset](https://user-images.githubusercontent.com/42907076/99896262-da1cfb80-2cb4-11eb-8f61-6a286715e3fa.png)
-> ![AddComplaints](https://user-images.githubusercontent.com/42907076/99896267-e903ae00-2cb4-11eb-8f2c-9b18eda6f612.png)
-> ![ComplaintSent](https://user-images.githubusercontent.com/42907076/99896270-ebfe9e80-2cb4-11eb-969f-2abf2d0984e5.png)
-> ![Unsolved-Complaint](https://user-images.githubusercontent.com/42907076/99896273-f325ac80-2cb4-11eb-86fa-4fefdb158e92.png)
+## Student Login
+> ![image](https://user-images.githubusercontent.com/87935196/200155769-c84cdccb-59e5-443b-8ef5-6af3f0894dab.png)
+ 
+## Staff Login
+>![image](https://user-images.githubusercontent.com/87935196/200155821-82a35f32-680b-4759-bd57-f267aed6333e.png)
 
 ## Admin Login
-> ![Admin-login](https://user-images.githubusercontent.com/42907076/99896297-41d34680-2cb5-11eb-8d14-116c7a465d0c.png)
-> ![Admin-Table](https://user-images.githubusercontent.com/42907076/99896298-44ce3700-2cb5-11eb-9881-ccf5563d1def.png)
-> ![Complaint Upadte](https://user-images.githubusercontent.com/42907076/99896299-47309100-2cb5-11eb-8330-98a8cd06f436.png)
-> ![Complaints Table](https://user-images.githubusercontent.com/42907076/99896301-4ef03580-2cb5-11eb-9196-833bcef98066.png)
-> ![Stats table](https://user-images.githubusercontent.com/42907076/99896303-5283bc80-2cb5-11eb-9b09-78710408c7f8.png)
-![image](https://user-images.githubusercontent.com/87935196/200153971-eb629a13-2763-4011-ae75-5f4d99fbf23b.png)
+> ![image](https://user-images.githubusercontent.com/87935196/200155885-1dc889f0-c287-420b-bf4c-eddeb5482efe.png)
