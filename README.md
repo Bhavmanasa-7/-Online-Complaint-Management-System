@@ -1,8 +1,4 @@
-# Grievance Redressal System
 
-If any one needs help on the project or getting error you can reach out to me suraj.bhandarkar13@gmail.com
-
-Watch the Video on how to set up the project: https://youtu.be/2IZ5bN7t9nY
 
 # Introduction
 1. The Website is developed for a college Grievance Redressal System in an informal manner i.e. through direct supervision of the principal and managing director earlier. 
